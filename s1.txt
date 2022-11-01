@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 rakhi
 this is s1 file and updated by sdn
+=======
+updated by auth
+>>>>>>> auth
